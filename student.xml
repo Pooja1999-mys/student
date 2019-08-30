@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="prog5.css" ?>
+
+<students>
+<student> 
+<USN>USN: 4VV16CS001</USN>
+<Name>Name: Pavitra</Name>
+<College>College: Vidyavardhaka</College>
+<Branch>Branch: Computer science</Branch>
+<Year>Year:2020</Year>
+<E-mail>E-mail: pavitra@gmail.com</E-mail>
+</student>
+
+<student> 
+<USN>USN: 4VV16CS002</USN>
+<Name>Name: Pallavi</Name>
+<College>College: Vidyavardhaka</College>
+<Branch>Branch: Computer science</Branch>
+<Year>Year:2020</Year>
+<E-mail>E-mail: pallavi@gmail.com</E-mail>
+</student>
+
+<student> 
+<USN>USN: 4VV16CS003</USN>
+<Name>Name: Paru</Name>
+<College>College: Vidyavardhaka</College>
+<Branch>Branch: Computer science</Branch>
+<Year>Year:2020</Year>
+<E-mail>E-mail: paru@gmail.com</E-mail>
+</student>
+
+</students>
